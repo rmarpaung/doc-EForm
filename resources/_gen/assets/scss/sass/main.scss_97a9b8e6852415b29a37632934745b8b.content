@@ -1,6 +1,6 @@
 @charset "UTF-8";
 body {
-  font-family: "Montserrat",sans-serif;
+  font-family: "Titillium Web", sans-serif;
   background-image: url("/images/background.jpg");
   font-weight: 400;
   line-height: 1.5; }
@@ -62,7 +62,7 @@ body {
         letter-spacing: -1px;
         display: block;
         margin-bottom: 14px;
-        border-bottom: 1px dotted #1f5b4f;
+        border-bottom: 1px dotted #493262;
         font-variant: small-caps; }
       body article section.right-menu > div nav > ul {
         padding: 0px 0px 0px 0px;
@@ -84,7 +84,8 @@ body {
     body article section.right-menu .Actions {
       font-size: 75%; }
   body footer {
-    border-top: 1px solid gray; }
+    line-height: 40px;
+    margin-top: 15px; }
 
 article section.page {
   background-color: inherit; }
@@ -110,7 +111,7 @@ article section.page {
           content: "⊸"; }
         article section.page #ariane ol li a {
           color: black;
-          border-bottom: 1px dotted #0c221e;
+          border-bottom: 1px dotted #23182f;
           padding-bottom: 4px;
           padding-right: 0px; }
         article section.page #ariane ol li.active:after {
@@ -140,18 +141,18 @@ article section.page {
       min-width: 50px; }
       article section.page nav.subpages li a {
         font-size: 90%;
-        color: #002e25; }
+        color: #230641; }
       article section.page nav.subpages li:not(:first-child):before {
         display: inline-block;
         margin-left: 0.4em;
         padding-right: .4rem;
-        color: #052922;
+        color: #230e3a;
         content: "|"; }
       article section.page nav.subpages li.active {
         font-weight: bold; }
     article section.page nav.subpages li:first-child:before {
       content: "└ ";
-      color: #052922; }
+      color: #230e3a; }
   article section.page div.jump-to-section {
     font-size: smaller;
     color: black; }
@@ -159,7 +160,7 @@ article section.page {
       padding-left-left: 0px;
       list-style-type: none; }
       article section.page div.jump-to-section ul li a {
-        color: #032b23; }
+        color: #230a3d; }
     article section.page div.jump-to-section nav {
       background-color: white;
       opacity: 0.95; }

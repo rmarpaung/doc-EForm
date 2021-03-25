@@ -3,6 +3,8 @@ title : How To Access
 weight: 3
 ---
 
+![](/images/logopreview.png?height=auto&classes=border,shadow)
+
 ### LOGIN / SIGNIN
 
 Untuk menggunakan sistem E-FORM dan pertama kali pada saat pengajuan LVA atau MTP kita di tampilkan halaman login, silakan menggunakan peramban (browser) seperti Google Chrome ataupun yang lainnya, baik menggunakan PC, laptop, ataupun handphone, dengan membuka alamat berikut ini:
