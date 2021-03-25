@@ -3,8 +3,8 @@ title : About E-Form
 description: Text about this post
 weight: 2
 ---
+![](/images/logopreview.png?height=auto&classes=border,shadow)
 
-<img src="/images/logopreview.png">
 
 The E-FORM is a Website for Request and Approver Attachment on technical documentation. E-FORM is a website to replace several attachments to each approval application that will be used for all activities at PT. Solutions Bangun Indonesia. Tbk.
 
