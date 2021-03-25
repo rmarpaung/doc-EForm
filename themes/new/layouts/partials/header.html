@@ -1,0 +1,5 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-white shadow sticky-top" id="navbarMain">
+        <a href='{{ (cond (and (ne .Site.Params.landingPageURL nil) (.Site.IsMultiLingual)) .Site.Params.landingPageURL "/") }}'>
+                <img src="/images/logo-sbipreview.png" alt="logo" style="width:15%;" >
+        </a>
+</nav>
