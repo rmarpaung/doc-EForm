@@ -1,10 +1,10 @@
-{{if .Site.Params.color_main}}
+{{if .Site.Params.color_main }}
 $color_main : {{ .Site.Params.color_main  }}  ;
 {{else}}
 $color_main : hsl(random(360)-1, random(100)-1%, random(100)-1%);
 {{end}}
 
-{{if .Site.Params.color_second}}
+{{if .Site.Params.color_second }}
 $color_second : {{ .Site.Params.color_second  }}  ;
 {{else}}
 $color_second : saturate($color_main, 0%);  
