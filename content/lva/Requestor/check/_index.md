@@ -21,7 +21,7 @@ Pada Detail Request LVA ini pertama kita pada tampilan home dibawah ini dapat kl
 
 ### 2. My Request List
 
-Untuk melihat detail Request yang di inginkan dapat memilih request lalu klik pada tombol ![](/images/LVA/check/tombol.PNG?height=30px) dan kita dapat klik tombol Details
+Untuk melihat detail Request yang di inginkan dapat memilih request lalu klik pada tombol ![](/images/LVA/check/tombol.PNG?height=auto&classes=border,shadow) dan kita dapat klik tombol Details
 
 <div class="figure-caption">
 

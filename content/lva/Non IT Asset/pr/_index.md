@@ -2,27 +2,17 @@
 title: "Update PR Information"
 menu: "lva"
 description: "Update PR Information LVA"
-weight: 15
+weight: 1
 ---
 Untuk update pada request yang bersifat Non IT,requestor dapat mengisikan kelengkapan pada pengisian PR Number, PO Number ,dan GR Number yang telah di berikan dari SAP seperti dibawah untuk melanjukan kehalaman update.Jika Request yang bersifat IT kita hanya dapat melihat detail nya saja
 
-<div class="figure-caption">
+![](/images/LVA/non/homee.png?height=auto&classes=border,shadow)
+*Gambar 1. Halaman Home Update Non IT Support.*
 
-<img src="/images/LVA/non/homee.png" 
-style="width:auto;height:480px;">
-
-Gambar 1. Halaman Home Update Non IT Support.
-
-</div>
- 
 Halaman ini menampilkan data list yang telah dibuat Tiket number dan Asset number oleh Finance Support untuk update status pada PR number.
 
-<div class="figure-caption">
-
-<img src="/images/LVA/non/list.png" 
-style="width:auto;height:350px;">
-
-Gambar 2. Halaman Non IT Suport E-FORM.
+![](/images/LVA/non/list.png?height=auto&classes=border,shadow)
+*Gambar 2. Halaman Non IT Suport E-FORM.*
 
 </div>
 
@@ -30,7 +20,7 @@ Pada halaman Update Status (Non IT), ada beberapa proses yang dapat dilakukan de
 
 ###### a. Bagian atas halaman
 
-<img class="img" src="/images/LVA/non/refresh.png">
+![](/images/LVA/non/refresh.png?height=auto&classes=border,shadow)
 
 - Refresh, digunakan untuk menampilkan daftar Update Status (Non IT) Data List dengan kondisi yang teraktual
 - Export, digunakan untuk expor data request list menjadi file excel
@@ -38,7 +28,7 @@ Pada halaman Update Status (Non IT), ada beberapa proses yang dapat dilakukan de
 
 ###### b. Bagian kanan dari masing-masing Request Item
 
-<img class="img" src="/images/LVA/non/dropdown.png"> Dropdown ada beberapa pilihan <img class="img" src="/images/LVA/non/button.png">
+![](/images/LVA/non/dropdown.png?height=auto&classes=border,shadow)Dropdown ada beberapa pilihan ![](/images/LVA/non/button.png?height=auto&classes=border,shadow)
      
 - Update PR, digunakan untuk memberikan PR number yang didapat dari SAP.
 - Update PO, digunakan untuk memberikan PO number yang didapat dari SAP.
@@ -48,13 +38,7 @@ Pada halaman Update Status (Non IT), ada beberapa proses yang dapat dilakukan de
     
 ##### Update PR
 
-<div class="figure-caption">
+![](/images/LVA/non/formpr.png?height=auto&classes=border,shadow)
+*Gambar 3. Halaman Update PR E-FORM.*
 
-<img src="/images/LVA/non/formpr.png" 
-style="width:auto;height:350px;">
-
-Gambar 3. Halaman Update PR E-FORM.
-
-</div>
-
-Setelah data-data tersebut diatas selesai diisi, klik tombol <img src="/images/LVA/non/update.png"> untuk membuat PR Number data, atau klik tombol <img src="/images/LVA/non/back.png"> untuk kembali ke halaman sebelumnya tanpa melakukan penyimpanan data.
+Setelah data-data tersebut diatas selesai diisi, klik tombol ![](/images/LVA/non/update.png?height=auto&classes=border,shadow) untuk membuat PR Number data, atau klik tombol ![](/images/LVA/non/back.png?height=auto&classes=border,shadow) untuk kembali ke halaman sebelumnya tanpa melakukan penyimpanan data.

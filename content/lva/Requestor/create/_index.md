@@ -13,187 +13,145 @@ Untuk permintaan atau pengajuan LVA dapat mengikuti langkah-langkah sebagai beri
 
 + ##### Pertama klik button “Create LVA” yang berada pada atas kiri dengan warna biru seperti pada gambar berikut
 
-    ![](homelva.png?height=auto&classes=border,shadow)Gambar 1. Create LVA.
+    ![](homelva.png?height=auto&classes=border,shadow)*Gambar 1. Create LVA.*
 
 + ##### Kedua akan menampilkan seperti gambar dibawah untuk mengisikan Form pengajuan LVA
 
-    <div class="figure-caption">
-
-    <img src="/images/LVA/request/form.png" style="width:auto;height:750px;" >
-
-    Gambar 2. Form Pengajuan LVA.
-
-    </div>
- <hr>
-
+    ![](form.png?height=auto&classes=border,shadow)*Gambar 2. Form Pengajuan LVA.*
 + ##### Pada pengisian ada beberapa pilihan yang dapat digunakan untuk pengajuan LVA: 
 
   #### 1. Cost Center, Company Code & Cost Center Owner
   
   Pada pengisian Cost Center disini dipergunakan untuk mengisikan code untuk Cost Center misalkan seperti dibawah, sehingga menghasilkan Company Code dan Cost Center Owner.
- 
-    <img class="img" src="/images/LVA/request/costcenter.png">
+
+    ![](costcenter.png?height=auto&classes=border,shadow)
 
   Lalu akan menampilkan Cost Center Owner pada Approval Step dengan susunan yang tersedia.
-
-    <img class="img" src="/images/LVA/request/approvelstep.png">
-
+    
+    ![](approvelstep.png?height=auto&classes=border,shadow)
   #### 2. Plant Code & Location
 
   Ada beberapa pilihan yang berada di Plant Code untuk pengajuan LVA, jika telah memilih salah satu pilihan dari Plant Code akan otomatis menampilkan Location dan dapat di ubah untuk Locationnya seperti pada gambar diawah ini.
-
-    <img class="img" src="/images/LVA/request/plantcode.png">
+    
+    ![](plantcode.png?height=auto&classes=border,shadow)
  
   #### 3. Asset Type
 
   Ada pilihan untuk pengajuan LVA dapat memilih Asset Type untuk pengajuan IT Asset Seperti Laptop atau Printer dan lainnya jika Non IT Asset untuk pengajuan seperti Machine ataupun Tools untuk Asset. 
 
-    <img class="img" src="/images/LVA/request/asset.png">   
+    ![](asset.png?height=auto&classes=border,shadow)  
 
   Untuk Asset Type juga dapat berpengaruh pada Approval Step, Jika memilih IT Asset akan menampilkan Approval Step sampai Head of MOS/IT.
 
-    <img class="img" src="/images/LVA/request/approvel.png"> 
+    ![](approvel.png?height=auto&classes=border,shadow)
  
   Dan Jika memilih Non IT Asset Approval Step hanya sampai Group Head/Plant Manager.
-
-    <img class="img" src="/images/LVA/request/approvelnon.png">
+    
+    ![](approvelnon.png?height=auto&classes=border,shadow)
  
   #### 4. User For & Used By
 
   Pada Used For ini ada dua pilihan untuk request tersebut berdasarkan request yang ingin kita buat :
 
-    <img class="img" src="/images/LVA/request/use.png">
+    ![](use.png?height=auto&classes=border,shadow)
   
     +	Used by myself
 
     Jika memilih Used by myself akan menampilkan Used By seperti dibawah ini.
-    
-    <img class="img" src="/images/LVA/request/usedby.png">
+
+    ![](usedby.png?height=auto&classes=border,shadow)
 
     +	Used for Other
     
     Jika memilih Used for Other akan menampilkan tombol penambahan employee pada Used By seperti dibawah ini.
 
-    <img class="img" src="/images/LVA/request/other.png">
+    ![](other.png?height=auto&classes=border,shadow)
      
     Lalu kita dapat memilih employee yang ingin kita requestkan LVA menampilkan seperti dibawah ini.
 
-    <img class="img" src="/images/LVA/request/employee.png">
-    
-    <img class="img" src="/images/LVA/request/by.png">
+    ![](employee.png?height=auto&classes=border,shadow)
+    ![](by.png?height=auto&classes=border,shadow)
 
   #### 5. Item Asset Type
 
   Pada Item Asset Type ini ada bebrapa pilihan berdasarkan dari pilihan yang berada Asset Type :
 
     +	IT Asset 
-
-    <img class="img" src="/images/LVA/request/it.png">
+    
+    ![](it.png?height=auto&classes=border,shadow)
      
     +	Non IT Asset
 
-    <img class="img" src="/images/LVA/request/non.png">
+    ![](non.png?height=auto&classes=border,shadow)
 
     #### 6. Investment Reason
 
     Ada beberapa pilihan untuk pengajuan LVA untuk asalan penggunaan asset tersebut pada investasinya.
-
-    <img class="img" src="/images/LVA/request/reason.png">
+    
+    ![](reason.png?height=auto&classes=border,shadow)
      
     #### 7. Item Description
 
     Item Description ini diisi sebagai merk atau type item yang di request untuk contoh di bawah ini menggunakan laptop.
     
-    <img class="img" src="/images/LVA/request/desc.png">
+    ![](desc.png?height=auto&classes=border,shadow)
      
     #### 8. Amount
 
     Amount ini diisikan untuk jumlah atau total biaya pada 1 barang pengajuan LVA yang akan di jadikan Asset.
     
-    <img class="img" src="/images/LVA/request/amount.png">
+    ![](amount.png?height=auto&classes=border,shadow)
      
     #### 9. Remarks
 
     Remarks diisi untuk mengetahui penjelasan permintaan asset dan penjelasan Spesifikasi yang di perlukan.
-
-    <img class="img" src="/images/LVA/request/remarks.png">
-
+    
+    ![](remarks.png?height=auto&classes=border,shadow)
     #### 10. Upload Photo
 
     Pada form ini dapat memberikan lampiran dengan upload pada pilihan seperti di bawah ini.
-
-    <img class="img" src="/images/LVA/request/apload.png">
+    
+    ![](apload.png?height=auto&classes=border,shadow)
     
     Untuk penambahan item yang ingin di request pada satu permintaan dapat klik tombol![](/images/LVA/request/add.png) , Jika tidak jadi untuk menambahkan dapat klik tombol ![](/images/LVA/request/remove.png). 
 
     Untuk contoh penambahan request Item seperti dibawah ini.
-    <div class="figure-caption">
-
-    <img src="/images/LVA/request/requestitem.png" style="width:auto;height:450px;">
-
-    Gambar 3.  Request Item LVA.
-
-    </div>  
+    ![](requestitem.png?height=auto&classes=border,shadow)*Gambar 3.  Request Item LVA.*
 
     Setelah data-data tersebut diatas selesai diisi, klik tombol   untuk membuat request data, atau klik tombol   untuk kembali ke halaman sebelumnya tanpa melakukan penyimpanan data.
     
-   
-    <div class="figure-caption">
-     Untuk  karyawan dengan status Employee On Duty (EOD) yang mengajukan LVA, Diharuskan untuk menginputkan nama atasan dan alamat email Direct Superior Actual atau atasan yang berkaitan (Apakah atasan yang berkaitan karyawan EOD, karyawan holding, dll).
-    <hr>
-    <img src="/images/LVA/request/supperior.png" style="width:auto;height:80px;">
-    <hr>
-    <img class="img" src="/images/LVA/request/nonemail.png" style="width:auto;height:220px;">
+
+    {{% notice %}}Untuk  karyawan dengan status Employee On Duty (EOD) yang mengajukan LVA, Diharuskan untuk menginputkan nama atasan dan alamat email Direct Superior Actual atau atasan yang berkaitan (Apakah atasan yang berkaitan karyawan EOD, karyawan holding, dll).
+
+![](supperior.png?height=auto&classes=border,shadow)
+![](nonemail.png?height=auto&classes=border,shadow)
     
-    Contoh : Untuk position Employee On Duty (EOD) yang tidak menampilkan Supperior Name dan Supperior Email secara automatis dapat mengisikan Supperior Email atau Email atasan langsung yang di Holding seperti contoh dibawah ini. 
+Contoh : Untuk position Employee On Duty (EOD) yang tidak menampilkan Supperior Name dan Supperior Email secara automatis dapat mengisikan Supperior Email atau Email atasan langsung yang di Holding seperti contoh dibawah ini. 
 
-    <img src="/images/LVA/request/fill.png" style="width:auto;height:230px;">
+![](fill.png?height=auto&classes=border,shadow)
 
-    </div> 
+    {{% /notice %}}
  
 
 ### 2. Hasil Create LVA
 
 Setelah proses mengisikan pada form lva akan mendapatkan Request Number yang akan tampil seperti pada gambar di bawah ini dan kita juga mendapatkan Email request LVA yang telah dibuat.
 
-<div class="figure-caption">
+![](success.png?height=auto&classes=border,shadow)
+*Gambar 4. Success Create LVA.*
 
-<img src="/images/LVA/request/success.png" style="width:auto;height:400px;">
+![](email1.png?height=auto&classes=border,shadow)
+*Gambar 5. Email Notification 1 request item Create LVA.*
 
-Gambar 4. Success Create LVA.
+![](email2.png?height=auto&classes=border,shadow)
+*Gambar 6. Email Notification 2 request item Create LVA.*
 
-</div> 
-
-<hr>
- 
-<div class="figure-caption">
-
-<img src="/images/LVA/request/email1.png" style="width:auto;height:400px;">
-
-Gambar 5. Email Notification 1 request item Create LVA.
-
-</div>
-
-<hr>
- 
-<div class="figure-caption">
-
-<img src="/images/LVA/request/email2.png" style="width:auto;height:400px;">
-
-Gambar 6. Email Notification 2 request item Create LVA.
-
-</div>
- 
 ### 3. Detail Request LVA
 
 Pada Detail Requestor ini kita dapat mengetahui proses approval dari request LVA yang telah kita buat seperti di bawah.
-<div class="figure-caption">
 
-<img src="/images/LVA/request/detail.png" style="width:auto;height:520px;">
-
-Gambar 7. Detail Request LVA.
-
-</div> 
+![](detail.png?height=auto&classes=border,shadow)
+*Gambar 7. Detail Request LVA.*
  
 ### 4. Requestor
 
@@ -202,49 +160,25 @@ Untuk Requestor ini akan selalu mendapatkan notifikasi pada setiap proses create
   #### a. Rejected 
 
   Rejected ini jika pengajuan ditolak oleh approver dengan ada nya kesalah dan telah diberikan keterangan nantinya pada email notifikasi seperti pada gambar dibawah ini.
-     
-  <div class="figure-caption">
-
-  <img src="/images/LVA/request/reject.png" style="width:auto;height:400px;">
-
-  Gambar 8. Notifikasi Email Rejected.
-
-  </div>
+  
+  ![](reject.png?height=auto&classes=border,shadow)
+  *Gambar 8. Notifikasi Email Rejected.*
 
   #### b. Asset Request
 
   Pada Asset request disini adalah notifikasi jika Finance Support telah mengetahui dan menambahkan untuk memberikan Asset number.
-  
-  <div class="figure-caption">
 
-  <img src="/images/LVA/request/assetre.png" style="width:auto;height:400px;">
-
-  Gambar 9. Notification request finance support.
-
-  </div>
-
+  ![](assetre.png?height=auto&classes=border,shadow)
+  *Gambar 9. Notification request finance support.*
   #### c. Asset Update
 
   Pada Asset update disini adalah notifikasi jika Finance Support telah memberikan  Asset number pada Asset yang telah di create oleh requestor.
-
-  <div class="figure-caption">
   
-  <img src="/images/LVA/request/update.png" style="width:auto;height:400px;">
-
-  Gambar 10. Notification request finance support.
-
-  </div>
-
-
+  ![](update.png?height=auto&classes=border,shadow)
+  *Gambar 10. Notification request finance support.*
   #### d. PR Number
 
   Untuk PR Number ini diberikan oleh IT support jika barang atau asset yang di request adalah IT Asset sehinga akan memberikan notifikasi pada requestor seperti gambar dibawah ini.
 
-  <div class="figure-caption">
-
-  <img src="/images/LVA/request/pr.png" 
-  style="width:auto;height:400px;">
-
-  Gambar 11. Email Notifikasi Pr number.
-
-  </div>
+  ![](pr.png?height=auto&classes=border,shadow)
+  *Gambar 11. Email Notifikasi Pr number.*
