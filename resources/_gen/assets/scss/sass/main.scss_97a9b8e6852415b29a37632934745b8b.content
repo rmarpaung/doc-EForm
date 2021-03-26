@@ -62,7 +62,7 @@ body {
         letter-spacing: -1px;
         display: block;
         margin-bottom: 14px;
-        border-bottom: 1px dotted #493262;
+        border-bottom: 1px dotted #8180d6;
         font-variant: small-caps; }
       body article section.right-menu > div nav > ul {
         padding: 0px 0px 0px 0px;
@@ -70,7 +70,7 @@ body {
         body article section.right-menu > div nav > ul ul {
           padding: 0px 0px 0px 14px;
           margin: 0px 0px 0px 0px;
-          border-left: 1px solid black; }
+          border-left: 1px solid #302e8e; }
           body article section.right-menu > div nav > ul ul li {
             font-size: 90%; }
       body article section.right-menu > div ul {
@@ -107,11 +107,11 @@ article section.page {
           display: inline-block;
           padding-right: .5rem;
           padding-left: .5rem;
-          color: black;
+          color: #09091b;
           content: "⊸"; }
         article section.page #ariane ol li a {
-          color: black;
-          border-bottom: 1px dotted #23182f;
+          color: #09091b;
+          border-bottom: 1px dotted #4846c3;
           padding-bottom: 4px;
           padding-right: 0px; }
         article section.page #ariane ol li.active:after {
@@ -141,33 +141,33 @@ article section.page {
       min-width: 50px; }
       article section.page nav.subpages li a {
         font-size: 90%;
-        color: #230641; }
+        color: #0e0aff; }
       article section.page nav.subpages li:not(:first-child):before {
         display: inline-block;
         margin-left: 0.4em;
         padding-right: .4rem;
-        color: #230e3a;
+        color: #2521e8;
         content: "|"; }
       article section.page nav.subpages li.active {
         font-weight: bold; }
     article section.page nav.subpages li:first-child:before {
       content: "└ ";
-      color: #230e3a; }
+      color: #2521e8; }
   article section.page div.jump-to-section {
     font-size: smaller;
-    color: black; }
+    color: #232268; }
     article section.page div.jump-to-section ul {
       padding-left-left: 0px;
       list-style-type: none; }
       article section.page div.jump-to-section ul li a {
-        color: #230a3d; }
+        color: #1915f4; }
     article section.page div.jump-to-section nav {
       background-color: white;
       opacity: 0.95; }
   article section.page div.chevrons {
     margin-top: 3rem;
-    border-top: 1px solid black;
-    border-bottom: 1px solid black;
+    border-top: 1px solid #232268;
+    border-bottom: 1px solid #232268;
     padding: 1rem 0rem;
     display: flex;
     flex-direction: row;

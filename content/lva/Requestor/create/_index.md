@@ -1,6 +1,5 @@
 ---
 title: "Create New Request"
-menu: "lva"
 description: "User Guideline Request LVA"
 weight : 1
 ---

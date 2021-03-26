@@ -1,6 +1,5 @@
 ---
 title: "Approve History"
-menu: "lva"
 description: "Approve History LVA"
 weight: 2
 ---

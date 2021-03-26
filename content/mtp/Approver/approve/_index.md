@@ -1,6 +1,5 @@
 ---
 title: "Approve Request"
-menu: "lva"
 description: "Approve Request MTP"
 weight: 1
 ---

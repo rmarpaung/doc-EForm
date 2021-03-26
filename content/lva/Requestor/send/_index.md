@@ -1,6 +1,5 @@
 ---
 title: "Resend Email Notification"
-menu: "lva"
 date: "2021-01-20T12:00:00"
 description: "Resend Email Notification LVA"
 weight: 4
